@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1f1ea714-c829-45b9-b7b8-c0be7a3eeb61" name="ppio">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="192.168.98.248" port="22" sshConfigId="1f83b566-d2dc-4170-b460-7200e3ab1e26" sshConfig="root@192.168.98.248:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
